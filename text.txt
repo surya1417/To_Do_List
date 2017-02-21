@@ -1,0 +1,34 @@
+To Do Project:
+
+To do web page consists of three main sections 
+ADD ITEMS
+TODO
+COMPLETED
+
+ADD ITEMS:
+
+It consists of tasks to be done which can be given in text box, and a button called Add is given. The text box is plain and empty text box 
+Function of button: on clicking the button the item entered should be added to the TODO list below. 
+
+TODO:
+
+Has a list of things to do.
+There is a check box on left of every list. In Default it is Unchecked .
+There are two buttons namely Edit and Delete on right of the list.
+On clicking the Edit button, a text box should appear which allows us to edit the item in the list. And move the item to completed section.
+On clicking the Delete button, the item should be removed from the todo list
+
+
+COMPLETED:
+
+Has a list of things which have done.
+There is a check box on left of every list. In Default it is Unchecked .
+There are two buttons namely Edit and Delete on right of the list.
+On clicking the Edit button, a text box should appear which allows us to edit the item in the list.
+On clicking the Delete button, the item should be removed from the completed list.
+
+
+
+
+
+
